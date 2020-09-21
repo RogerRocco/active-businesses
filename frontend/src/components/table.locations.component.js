@@ -15,7 +15,7 @@ class TableLocationsComponent extends React.Component {
           <TableHead>
             <TableRow>
               <TableCell align="left">business name</TableCell>
-              <TableCell align="right">unit length</TableCell>
+              <TableCell align="right">number of units</TableCell>
             </TableRow>
           </TableHead>
           <TableBody>
