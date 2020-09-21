@@ -6,6 +6,14 @@ Backend: NodeJS, ExpressJS, Rest API
 
 Data resource: https://data.lacity.org/resource/6rrh-rzua.json
 
+
+
+![](presentation.gif)
+
+
+
+
+
 ## Getting Started
 
 step 1: Install NodeJS
